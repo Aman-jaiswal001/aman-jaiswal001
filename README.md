@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aman-jaiswal001/aman-jaiswal001/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aman-jaiswal001/aman-jaiswal001/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center"><i>Code. Optimize. Build. Repeat.</i> ⭐</p>
